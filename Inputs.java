@@ -17,7 +17,6 @@ public class Inputs{
         String name = sc.nextLine();
         System.out.println(name);
 
-        
     }
 
 }
