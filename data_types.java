@@ -24,7 +24,7 @@ public class data_types{
         System.out.println("Non Primitive Data Types");
         String name = "Ronngh";
         System.out.println("String\t->\t"+name);
-
+        
         
     }
 }
